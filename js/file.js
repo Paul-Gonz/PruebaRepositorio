@@ -1,3 +1,3 @@
 function saludo(){
-    alert ("esto es una prueba");
+    alert ("Hola mundo");
 }
